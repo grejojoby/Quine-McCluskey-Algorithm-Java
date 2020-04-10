@@ -1,8 +1,6 @@
 import java.util.Scanner;
 import java.util.Vector;
-
 import ts.display;
-
 class declarations {
 
     // Variable Declarations
